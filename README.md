@@ -1,6 +1,5 @@
 # INTROSORT ALGORITHM
 Implementation of Introsort in C#
-
 Data structure: Array
 
 # REQUIREMENTS
