@@ -25,14 +25,18 @@ https://en.wikipedia.org/wiki/Introsort
 
 https://en.wikipedia.org/wiki/Quicksort
 
-https://www.youtube.com/watch?v=PgBzjlCcFvc
-
 https://en.wikipedia.org/wiki/Heapsort
 
 (3rd Edition)Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein.(pp.151-180) 
 
 DATA STRUCTURES AND ALGORITHM USING C#, by Michael McMillan (pp.254-262) 
 
+# USE OF INTRO SORT ALGORITHM
+TO SORT DATA 
+
+OPTICAL CHARACTER RECOGNITION : https://scinapse.io/papers/2222600195
+
+FAST IMAGE FILTERING : https://scinapse.io/papers/1808647168
 # GROUP MEMBERS
 17B-115-SE(B)
 
