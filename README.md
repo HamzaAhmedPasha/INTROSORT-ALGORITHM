@@ -3,6 +3,7 @@ Implementation of Introsort in C#
 
 # REQUIREMENTS
 Download: Visual Studio 2013
+
 Version number: 12.0
 
 # ABOUT INTROSORT
@@ -34,4 +35,5 @@ DATA STRUCTURES AND ALGORITHM USING C#, by Michael McMillan (pp.254-262)
 
 # GROUP MEMBERS
 17B-115-SE(B)
+
 17B-119-SE(B)
